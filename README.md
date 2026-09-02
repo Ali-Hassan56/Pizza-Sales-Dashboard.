@@ -1,4 +1,3 @@
-# PowerBi_project
 🍕 Pizza Sales Analytics Dashboard | Power BI
 An interactive and data-driven Pizza Sales Analytics Dashboard developed in Microsoft Power BI. This project provides comprehensive insights into sales performance, customer purchasing behavior, order trends, and product performance throughout the year. The dashboard enables businesses to make informed decisions through dynamic visualizations and key performance indicators (KPIs).
 
